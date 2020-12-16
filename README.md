@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@igor_bjr-informational?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/igor_bjr)](https://twitter.com/igor_bjr) 
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Junior-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjunior/)](https://www.linkedin.com/in/igorjunior/) 
-[![Gmail Badge](https://img.shields.io/badge/-igorjunior@protonmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjunior@protonmail.com)](mailto:igorjunior@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-igorjunior@pm.me-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjunior@pm.me)](mailto:igorjunior@protonmail.com)
 
 **Languages and Tools:**  
 
