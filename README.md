@@ -31,6 +31,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/igorjunior/rastreio-promise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/igorjunior/rastreio-promise?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/igorjunior/ip-promise"><b>IP-Promise</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/igorjunior/ip-promise?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/igorjunior/ip-promise?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/igorjunior/ip-promise?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/igorjunior/ip-promise?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
