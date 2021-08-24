@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Junior-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjunior/)](https://www.linkedin.com/in/igorjunior/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Junior-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjunior)](https://www.linkedin.com/in/igorjunior) 
 [![Gmail Badge](https://img.shields.io/badge/-igorjunior@pm.me-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjunior@pm.me)](mailto:igorjunior@protonmail.com)
 
 **Languages and Tools:**  
