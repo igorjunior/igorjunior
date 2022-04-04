@@ -48,5 +48,5 @@
 
 **Some stats from my Github:** 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=igorjunior alt=igorjunior /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=igorjunior&show_icons=true&theme=algolia" alt="igorjunior" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=igorjunior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="igorjunior" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjunior&show_icons=true&layout=compact&theme=algolia" alt="igorjunior" /></p>
